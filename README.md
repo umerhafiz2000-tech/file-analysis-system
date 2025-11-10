@@ -1,8 +1,4 @@
-<img width="562" height="297" alt="s4" src="https://github.com/user-attachments/assets/3e2f24e6-2ba9-4544-91fa-bd3f759239b9" /># 🧠 File Analysis & Embedding System
-
 An end-to-end **document analysis and embedding system** that ingests files in multiple formats (`.docx`, `.txt`, `.pdf`), converts them into structured HTML and plain text, generates **embeddings** via a **local DeepSeek service**, stores them in **ChromaDB**, and retrieves the most relevant information through **high-performance similarity search**.
-
----
 
 ## 🚀 Features
 - 📄 Multi-format document ingestion (.docx, .txt, .pdf)
