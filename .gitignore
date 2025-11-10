@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+.env
+venv/
+.env/
+.cache/
+*.sqlite3
+
+# Data
+data/
+uploaded_files/
+*.csv
+*.pdf
+*.docx
+
+# IDEs
+.vscode/
+.idea/
